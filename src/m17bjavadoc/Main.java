@@ -23,6 +23,9 @@ public class Main {
       System.out.println(l);
       s = l.resumo();
       c = carateres(s);
+      // 1 comentario
+      // 2 comentarios
+      // 3 comentarios
       System.out.println(c);
    }
 }
